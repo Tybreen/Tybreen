@@ -3,9 +3,9 @@
 I’m a developer with 6 years of coding experience, passionate about building tech that makes a difference. I’ve completed over 200 hours of hands-on tutoring with instructors from iD Tech, where I earned their prestigious Level 10 status—an honor held by less than 0.1% of 600,000+ alumni.
 
 🚀 Skills & Training
-	•	✅ Fullstack Academy – Web Development Bootcamp
-	•	✅ Fullstack Academy – AI & Machine Learning Bootcamp
-	•	✅ Experienced with Python, JavaScript, HTML/CSS, React, and more
+	- ✅ Fullstack Academy – Web Development Bootcamp
+	- ✅ Fullstack Academy – AI & Machine Learning Bootcamp
+	- ✅ Experienced with Python, JavaScript, HTML/CSS, React, and more
 
 <!--
 **Tybreen/Tybreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
